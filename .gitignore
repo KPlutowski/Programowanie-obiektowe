@@ -47,6 +47,6 @@ _deps
 #other
 [Bb][Uu][Ii][Ll][Dd]
 .vscode/
-./tmp
-./notes
+tmp/*
+notes/*
 
